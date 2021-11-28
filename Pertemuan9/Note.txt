@@ -1,0 +1,1 @@
+Tidak ada error, tetapi tombol medium dan hard tidak berfungsi walau score telah memenuhi.
