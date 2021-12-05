@@ -1,0 +1,7 @@
+A11201912132
+
+Cube	-> Component = Transform, Cube (Mesh Filter), Mesh Renderer, Materials, Lightning, Probes, Box Collider
+Sphere	-> Component = Transform, Sphere (Mesh Filter), Mesh Renderer, Materials, Lightning, Probes, Sphere Collider
+Capsule	-> Component = Transform, Capsule (Mesh Filter), Mesh Renderer, Materials, Lightning, Probes, Capsule Collider
+Plane	-> Component = Transform, Plane (Mesh Filter), Mesh Renderer, Materials, Lightning, Probes, Mesh Collider
+Quad	-> Component = Transform, Quad (Mesh Filter), Mesh Renderer, Materials, Lightning, Probes, Mesh Collider
